@@ -1,7 +1,9 @@
-node_modules
-dist
-build
-coverage
-.cache
-.vite
-public
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.vite/
+public/
+.venv/
+venv/
